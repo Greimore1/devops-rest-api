@@ -1,7 +1,7 @@
 # DevOps Learning REST API
 
 ## Project Overview
-This is a simple REST API project built with FastAPI, designed to help DevOps engineers learn and practice API development, containerization, and deployment strategies.
+This is a simple REST API project built with FastAPI.
 
 ## Features
 - CRUD operations for Items
