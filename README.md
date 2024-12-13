@@ -43,9 +43,3 @@ docker run -p 8000:8000 devops-rest-api
 - `PUT /items/{item_id}`: Update an item
 - `DELETE /items/{item_id}`: Delete an item
 
-## Testing
-Run tests with pytest:
-```bash
-pytest
-```
-
